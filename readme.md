@@ -1,4 +1,4 @@
-# AWS security case study: hardcoded credentials
+# AWS security case study: Unprotected logs
 
 ## Prerequisities
 
